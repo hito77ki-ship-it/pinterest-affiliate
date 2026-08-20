@@ -2,6 +2,14 @@
 
 海外（英語圏）ライフスタイル系Pinterestアフィリエイトサイトを、4つの役割を持つAIサブエージェントで運用するプロジェクト。ニッチや収益化方針は `config/niche.md` を参照。
 
+## 公開状況（2026-08-20）
+
+- **公開サイト：** https://hito77ki-ship-it.github.io/pinterest-affiliate/（GitHub Pages、`docs/`フォルダから配信）
+- **リポジトリ：** https://github.com/hito77ki-ship-it/pinterest-affiliate
+- 公開記事：1本（チェッカーボード床タイル）。**記事中のアフィリエイトリンクは全てTODOプレースホルダーで、実リンクではない**
+- **未完了：** Amazon Associates等への提携申請（稼働サイトが前提のため、デプロイ完了で申請可能な状態にはなった）、実リンクへの差し替え、Pinterestビジネスアカウント開設
+- `privacy.html` は仮置き。ホスティング・アナリティクス構成が固まってから仕上げる
+
 ## チーム体制
 
 | 役割 | ファイル | 何をするか |
