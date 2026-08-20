@@ -74,7 +74,7 @@ This is the step renters actually worry about most, and it's also the easiest to
 1. **Warm the corner first.** Hold a hairdryer 3-4 inches from a tile corner for 30-45 seconds until it's warm, not hot.
 2. **Lift with a plastic tool, not metal.** A plastic putty knife works under the softened corner without gouging the subfloor underneath.
 3. **Pull at an angle, not straight up.** Peeling the tile back against itself at roughly a 45-degree angle, while keeping the hairdryer aimed just ahead of where you're peeling, keeps the adhesive soft as you go.
-4. **Clean residue with dish soap first, escalate only if needed.** Warm water and dish soap handles most leftover tack. For stubborn spots, [AFFILIATE:Goo Gone Painter's Formula Adhesive Remover] is formulated to be gentler on painted and finished surfaces than the standard citrus formula, but wipe the area down with plain water afterward — it can leave an oily film if left on.
+4. **Clean residue with dish soap first, escalate only if needed.** Warm water and dish soap handles most leftover tack. For stubborn spots, [AFFILIATE:Goo Gone Original Liquid Adhesive Remover] is a citrus-based formula made for exactly this kind of sticky residue, but wipe the area down with plain water afterward — it can leave an oily film if left on.
 
 Budget roughly 2-3 minutes per square foot for a careful removal, so a small bathroom floor is closer to an afternoon project than a quick weekend task if you want the subfloor left in landlord-approved condition.
 
