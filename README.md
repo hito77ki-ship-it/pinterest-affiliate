@@ -6,9 +6,10 @@
 
 - **公開サイト：** https://hito77ki-ship-it.github.io/pinterest-affiliate/（GitHub Pages、`docs/`フォルダから配信）
 - **リポジトリ：** https://github.com/hito77ki-ship-it/pinterest-affiliate
-- 公開記事：1本（チェッカーボード床タイル）。**記事中のアフィリエイトリンクは全てTODOプレースホルダーで、実リンクではない**
+- 公開記事：2本（チェッカーボード床タイル／バーガンディ&プラムのポーチ装飾）。**記事中のアフィリエイトリンクは全てTODOプレースホルダーで、実リンクではない**
+- OGタグ・favicon・robots.txt・sitemap.xmlを整備済み
+- `privacy.html` は完成版（アナリティクス未導入の旨を明記、導入時に更新が必要）
 - **未完了：** Amazon Associates等への提携申請（稼働サイトが前提のため、デプロイ完了で申請可能な状態にはなった）、実リンクへの差し替え、Pinterestビジネスアカウント開設
-- `privacy.html` は仮置き。ホスティング・アナリティクス構成が固まってから仕上げる
 
 ## チーム体制
 

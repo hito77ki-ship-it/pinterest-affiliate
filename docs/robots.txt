@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hito77ki-ship-it.github.io/pinterest-affiliate/sitemap.xml
