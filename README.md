@@ -83,6 +83,12 @@ Agent({
 
 analystの提言は、次の `content-pipeline` 実行時に `args.seeds` として渡すことで、リサーチにフィードバックできる。
 
+### 原稿を `docs/articles/` に公開HTML化するとき
+
+`pipeline/02-drafts/` のMarkdownのfrontmatter（`target_keyword`, `based_on`等）は内部管理用であり、**そのまま公開HTMLに転記しない。** 実際に1本目でこれをやってしまい、"Target keyword: checkerboard peel and stick floor tile" という内部メモが読者向けページにそのまま表示される事故があった（2026-08-20発見・修正済み）。公開ページに出してよいのは記事タイトル・公開日・本文のみ。
+
+デザインはThe Spruce（thespruce.com）の実際のレイアウトを参考にしている（2026-08-20、ブラウザで実際に確認）：セリフ体の見出し＋サンセリフ体の本文、カテゴリのeyebrowラベル、絞ったコンテンツ幅。`docs/styles.css`にその流儀を反映済み。
+
 ## 方針を変えるとき
 
 ニッチ・ターゲット・収益化方針を変える場合は `config/niche.md` を先に更新する。researcherはこのファイルを前提にトピックを選ぶため、更新せずに走らせると齟齬が生まれる。
