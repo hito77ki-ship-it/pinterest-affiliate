@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@700&family=Inter:wght@700;800&display=swap');
+* { margin:0; padding:0; box-sizing:border-box; }
+html,body { width:1000px; height:1500px; overflow:hidden; zoom:0.5; font-family:'Inter',sans-serif; }
+.pin { width:1000px; height:1500px; background:#F3EDE3; display:flex; flex-direction:column; align-items:center; padding:44px; }
+.center { width:100%; height:520px; border-radius:16px; background:linear-gradient(160deg,#6E2C3C,#3D1622); margin-bottom:34px; display:flex; align-items:center; justify-content:center; }
+.center .wreath { width:150px; height:150px; border-radius:50%; border:18px solid #C9A25A; }
+.headline { font-family:'Lora',serif; font-size:44px; color:#2E2A26; margin-bottom:30px; text-align:center; }
+.grid { display:grid; grid-template-columns:repeat(4,1fr); gap:18px; width:100%; }
+.cell { background:#fff; border:2px solid #C0654A; border-radius:10px; height:145px; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:10px; }
+.cell .dot { width:44px; height:44px; border-radius:8px; background:#8A3B4C; }
+.cell span { font-size:16px; font-weight:700; color:#5C574F; }
+</style></head>
+<body>
+<div class="pin">
+  <div class="center"><div class="wreath"></div></div>
+  <div class="headline">Shop This Fall Porch Look</div>
+  <div class="grid">
+    <div class="cell"><div class="dot"></div><span>Wreath</span></div>
+    <div class="cell"><div class="dot"></div><span>Urn</span></div>
+    <div class="cell"><div class="dot"></div><span>Mum Stems</span></div>
+    <div class="cell"><div class="dot"></div><span>Cushion</span></div>
+    <div class="cell"><div class="dot"></div><span>Lantern</span></div>
+    <div class="cell"><div class="dot"></div><span>Doormat</span></div>
+    <div class="cell"><div class="dot"></div><span>Ribbon</span></div>
+    <div class="cell"><div class="dot"></div><span>Hook</span></div>
+  </div>
+</div>
+</body></html>

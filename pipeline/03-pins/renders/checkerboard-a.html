@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@600;700&family=Inter:wght@700;800&display=swap');
+* { margin:0; padding:0; box-sizing:border-box; }
+html,body { width:1000px; height:1500px; overflow:hidden; zoom:0.5; font-family:'Inter',sans-serif; }
+.pin { width:1000px; height:1500px; display:flex; flex-direction:column; position:relative; background:#FAF7F2; }
+.bands { flex:1; display:flex; }
+.band { flex:1; position:relative; }
+.band + .band { border-left:4px solid #fff; }
+.b1 { background: repeating-conic-gradient(#7C9070 0% 25%, #F5F0E1 0% 50%) 0 0 / 100px 100px; }
+.b2 { background: repeating-conic-gradient(#C0654A 0% 25%, #F2E9DD 0% 50%) 0 0 / 100px 100px; }
+.b3 { background: repeating-conic-gradient(#6E2C3C 0% 25%, #B8AFA3 0% 50%) 0 0 / 100px 100px; }
+.label { position:absolute; bottom:36px; left:50%; transform:translateX(-50%); color:#fff; font-weight:800; font-size:26px; text-shadow:0 2px 8px rgba(0,0,0,0.45); letter-spacing:0.02em; }
+.overlay { position:absolute; top:70px; left:60px; right:60px; background:rgba(255,255,255,0.92); border-radius:14px; padding:38px 44px; text-align:center; }
+.overlay h1 { font-family:'Lora',serif; font-weight:700; font-size:52px; line-height:1.25; color:#2E2A26; }
+.overlay h1 span { color:#6E2C3C; }
+</style></head>
+<body>
+<div class="pin">
+  <div class="bands">
+    <div class="band b1"><div class="label">Sage + Ivory</div></div>
+    <div class="band b2"><div class="label">Terracotta + Bone</div></div>
+    <div class="band b3"><div class="label">Wine + Dust</div></div>
+  </div>
+  <div class="overlay">
+    <h1>Checkerboard Floor Tile,<br><span>Beyond Black &amp; White</span></h1>
+  </div>
+</div>
+</body></html>

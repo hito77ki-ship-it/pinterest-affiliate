@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@600;700&family=Inter:wght@700;800&display=swap');
+* { margin:0; padding:0; box-sizing:border-box; }
+html,body { width:1000px; height:1500px; overflow:hidden; zoom:0.5; font-family:'Inter',sans-serif; }
+.pin { width:1000px; height:1500px; display:flex; flex-direction:column; background:#FAF7F2; }
+.top { height:820px; background: repeating-conic-gradient(#7C9070 0% 25%, #F5F0E1 0% 50%) 0 0 / 90px 90px; display:flex; align-items:flex-end; justify-content:center; padding-bottom:50px; }
+.badge { background:rgba(255,255,255,0.95); border-radius:12px; padding:26px 40px; text-align:center; }
+.badge h1 { font-family:'Lora',serif; font-weight:700; font-size:44px; color:#2E2A26; line-height:1.2; }
+.bottom { flex:1; background:#EDEAE4; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:36px; padding:40px; }
+.steps { display:flex; gap:50px; }
+.step { display:flex; flex-direction:column; align-items:center; gap:14px; }
+.icon { width:110px; height:110px; border-radius:50%; border:6px solid #C0654A; display:flex; align-items:center; justify-content:center; font-size:52px; color:#C0654A; }
+.step span { font-size:20px; font-weight:700; color:#5C574F; text-align:center; max-width:150px; }
+</style></head>
+<body>
+<div class="pin">
+  <div class="top"><div class="badge"><h1>No Tile Saw,<br>No Landlord Call</h1></div></div>
+  <div class="bottom">
+    <div class="steps">
+      <div class="step"><div class="icon">&#9679;</div><span>Warm the corner</span></div>
+      <div class="step"><div class="icon">&#9670;</div><span>Lift with plastic</span></div>
+      <div class="step"><div class="icon">&#8599;</div><span>Peel at 45&deg;</span></div>
+    </div>
+  </div>
+</div>
+</body></html>

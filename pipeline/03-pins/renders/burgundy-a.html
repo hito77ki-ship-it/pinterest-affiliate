@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@700&family=Inter:wght@700;800&display=swap');
+* { margin:0; padding:0; box-sizing:border-box; }
+html,body { width:1000px; height:1500px; overflow:hidden; zoom:0.5; font-family:'Inter',sans-serif; }
+.pin { width:1000px; height:1500px; display:flex; flex-direction:column; position:relative; }
+.half { flex:1; display:flex; flex-direction:column; align-items:center; justify-content:center; position:relative; }
+.before { background:#D9D2C6; }
+.after { background:linear-gradient(160deg,#6E2C3C,#3D1622); }
+.tag { position:absolute; top:32px; left:32px; font-weight:800; font-size:22px; letter-spacing:0.12em; padding:8px 18px; border-radius:6px; }
+.before .tag { background:#8A8172; color:#fff; }
+.after .tag { background:#C9A25A; color:#2E1A10; }
+.pumpkin { width:90px; height:78px; border-radius:50% 50% 45% 45%; background:#B98A56; }
+.props { display:flex; gap:44px; align-items:flex-end; }
+.wreath { width:120px; height:120px; border-radius:50%; border:16px solid #8A3B4C; }
+.urn { width:80px; height:130px; background:#A9856B; border-radius:8px 8px 30px 30px; }
+.lantern { width:60px; height:90px; background:#C9A25A; border-radius:10px; box-shadow:0 0 40px 12px rgba(201,162,90,0.6); }
+.divider { position:absolute; top:750px; left:0; right:0; height:6px; background:linear-gradient(90deg,#C9A25A,#8A3B4C); }
+.headline { position:absolute; bottom:60px; left:60px; right:60px; text-align:center; }
+.headline h1 { font-family:'Lora',serif; color:#fff; font-size:50px; text-shadow:0 3px 14px rgba(0,0,0,0.5); }
+</style></head>
+<body>
+<div class="pin">
+  <div class="half before"><div class="tag">BEFORE</div><div class="pumpkin"></div></div>
+  <div class="half after">
+    <div class="tag">AFTER</div>
+    <div class="props"><div class="wreath"></div><div class="urn"></div><div class="lantern"></div></div>
+    <div class="headline"><h1>Small Balcony,<br>Big Fall Glow-Up</h1></div>
+  </div>
+  <div class="divider"></div>
+</div>
+</body></html>
