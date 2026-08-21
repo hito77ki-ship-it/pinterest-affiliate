@@ -13,7 +13,7 @@
 - Etsy: https://www.etsy.com/listing/1824004663/quadrostyle-checkerboard-in-sage-olive
 - 公式サイト: https://quadrostyle.com/products/checkerboard-in-sage-tile-sticker
 
-**対応案：** Amazon Associatesではリンク化できません。①Etsyアフィリエイトプログラムに別途登録してEtsyリンクにする、②Amazonで見つかる類似のセージ系ピール&スティックタイル（下記2番）に寄せて記事側の商品説明も調整する、のいずれかが必要です。
+**対応済み（2026-08-21）：** 記事を2番（RoomMates）を主役にする文章に書き換え済み。Quadrostyleへの言及は本文から削除した。
 
 ---
 
@@ -32,7 +32,7 @@
 **Amazonには無し。**（1番と同じ理由。Quadrostyleは自社サイト＋Etsyのみ）
 - 公式サイト: https://quadrostyle.com/products/checkerboard-in-terracotta-and-bone-white-floor-sticker
 
-**対応案：** 1番と同様。
+**対応済み（2026-08-21）：** 記事を4番（FloorPops Terracotta Matias）を主役にする文章に書き換え済み。厳密な市松模様ではなくスターバースト柄になる旨を正直に明記した。Quadrostyleへの言及は本文から削除した。
 
 ---
 

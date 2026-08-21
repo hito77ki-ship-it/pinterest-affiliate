@@ -25,15 +25,13 @@ For renters, that shift matters for a practical reason: a soft two-tone checkerb
 
 This is the combo showing up most in 2026 bathroom photos, and it's also the easiest to source as an actual peel-and-stick product.
 
-[AFFILIATE:Quadrostyle Checkerboard in Sage Tile Stickers] come as phthalate-free PVC squares in wasabi green and ivory bone white, sold in sizes from 4-inch to 13-inch squares, plus a 24-inch by 48-inch panel that covers 8 square feet in one piece. For floors specifically, look for the "Superior" 500-micron finish — it has a micro-textured, anti-skid surface, versus the smoother 300-micron version made for walls. The panel format is worth the extra cost for a floor project: fewer seams to line up means fewer chances for the pattern to drift out of alignment.
-
-If you want a pre-cut tile instead of a sticker sheet, [AFFILIATE:RoomMates Sage Green Ceramic Peel and Stick Vinyl Tile] comes in 10.5-inch squares, four tiles per pack covering about 2.45 square feet, for around $19 a pack. A small rental bathroom (roughly 25-35 square feet) typically needs 10-14 packs, so price it out before you fall in love with the look.
+[AFFILIATE:RoomMates Sage Green Ceramic Peel and Stick Vinyl Tile] comes in 10.5-inch squares, four tiles per pack covering about 2.45 square feet, for around $19 a pack. A small rental bathroom (roughly 25-35 square feet) typically needs 10-14 packs, so price it out before you fall in love with the look. Because it's a pre-cut tile rather than a single continuous sheet, dry-lay a few rows first to catch any pattern drift before peeling the backing off.
 
 ### Terracotta + Bone White
 
 Terracotta paired with a warm off-white reads more grounded and less trendy-for-trendy's-sake than the brighter color pairs, which is probably why it's the second-most searched combo after sage.
 
-[AFFILIATE:Quadrostyle Checkerboard in Terracotta and Bone White] follows the same sizing and material as the sage version — four terracotta stickers and four bone-white stickers per pack, in sizes from 4 inches up to the 8-square-foot panel. If you'd rather work with a pattern that isn't a strict two-square checkerboard, [AFFILIATE:FloorPops Terracotta Matias Peel and Stick Floor Tiles] use a mosaic of terracotta squares and triangles in a starburst layout instead — worth a look if you want the same color story with a less literal grid.
+A strict two-square terracotta-and-bone-white checkerboard is hard to find ready-made right now. The closest practical match is [AFFILIATE:FloorPops Terracotta Matias Peel and Stick Floor Tiles], which uses a mosaic of terracotta squares and triangles in a starburst layout rather than a literal checkerboard grid — worth it if you want the same color story without waiting on a harder-to-source exact match.
 
 ### Wine, Powder Blue, and Custom Colors
 
